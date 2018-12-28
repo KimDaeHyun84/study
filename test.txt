@@ -1,4 +1,5 @@
 testtest
+<<<<<<< HEAD
 
 
 
@@ -7,3 +8,6 @@ testtest
 
 충동해보자
 
+=======
+tt
+>>>>>>> 98f4a006d5c56f0984b3c513e8e22f24f70ded95
